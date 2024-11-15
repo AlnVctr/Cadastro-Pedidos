@@ -1,2 +1,2 @@
 # Cadastro-Pedidos
- Site para cadastro e pedidos de clientes (HTML)
+ Estou aprendendo a criar site para cadastro e pedidos de clientes (HTML)
